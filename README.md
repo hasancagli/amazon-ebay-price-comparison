@@ -7,4 +7,5 @@ I used selenium webdriver to create this bot.
 ## To use the program
 
 Write "python main.py" on your console.
+
 The program will ask you what you are looking for (you can enter anything you want, ex: microphone) and list everything to you in a few seconds.
