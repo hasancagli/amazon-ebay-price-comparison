@@ -1,4 +1,4 @@
-# Amazon - Ebay Product Price and Review Comparision 
+# Amazon - Ebay Product Price and Review Comparison
 
 This project provides you an opportunity that you can search for a certain product on two different marketplaces (Amazon and Ebay), and see the details of them. 
 
