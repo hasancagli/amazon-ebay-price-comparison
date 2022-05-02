@@ -1,6 +1,8 @@
 # Amazon - Ebay Product Price and Review Comparision 
 
-This project provides you an opportunity that you can search for a certain product on two different marketplaces (Amazon and Ebay), and see the details of them. The code is a bot which runs selenium in backend.
+This project provides you an opportunity that you can search for a certain product on two different marketplaces (Amazon and Ebay), and see the details of them. 
+
+I used selenium webdriver to create this bot.
 
 ## To use the program
 
